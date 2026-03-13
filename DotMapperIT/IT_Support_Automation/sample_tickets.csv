@@ -1,4 +1,0 @@
-name,email,issue_type,priority,description,timestamp
-John,john@email.com,wifi,High,Network not working,2026-03-10
-Sarah,sarah@email.com,login,Medium,Unable to login,2026-03-10
-Mike,mike@email,software,Low,Installation issue,2026-03-10

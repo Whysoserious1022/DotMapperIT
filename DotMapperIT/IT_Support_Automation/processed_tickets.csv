@@ -1,3 +1,0 @@
-Ticket_ID,Name,Email,Issue_Type,Priority,Description,Timestamp,Routed_Team,SLA_Deadline
-ca90ad66,Alice,alice@university.edu,wifi,high,Cannot connect to eduroam,2023-10-01T08:00:00,Network,2023-10-01T12:00:00
-c07b3037,Bob,bob@university.edu,login,medium,Forgot password,2023-10-01T09:00:00,IT Support,2023-10-02T09:00:00

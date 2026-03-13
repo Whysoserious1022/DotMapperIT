@@ -1,4 +1,0 @@
-Name,Email,Issue Type,Priority,Description,Timestamp,Reject_Reason
-Charlie,invalid-email,software,Low,Need SPSS,2023-10-01T10:00:00,Invalid Email
-Alice,alice@university.edu,wifi,High,Still cannot connect to eduroam,2023-10-01T08:30:00,Duplicate Ticket (Within 24h)
-Dave,dave@university.edu,unknown_issue,High,Help,2023-10-01T11:00:00,Unknown Issue Type
